@@ -20,7 +20,7 @@ pip install pyjokes requests
 3. App starten:
 
 ```
-python witz-app.py
+python witz_app.py
 ```
 
 ![witz-app Screenshot](screenshot.png)
@@ -34,5 +34,6 @@ Ein Projekt aus Spaß am Code – für mehr Lachen im Alltag.
 Erstellt von Serena – mit viel Lernfreude 😄
 
 ## 📄 Lizenz
+
 
 Dieses Projekt kann frei verwendet und angepasst werden – für Lernzwecke, Spaß und persönliche Weiterentwicklung.
