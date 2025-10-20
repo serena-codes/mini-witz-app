@@ -25,7 +25,7 @@ python witz_app.py
 
 ![witz-app Screenshot](screenshot.png)
 
-## ❤️ Idee & Umsetzung
+## 💡 Idee & Umsetzung
 
 Ein Projekt aus Spaß am Code – für mehr Lachen im Alltag.
 
@@ -37,3 +37,4 @@ Erstellt von Serena – mit viel Lernfreude 😄
 
 
 Dieses Projekt kann frei verwendet und angepasst werden – für Lernzwecke, Spaß und persönliche Weiterentwicklung.
+
